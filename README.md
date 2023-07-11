@@ -1,1 +1,1 @@
-# magminer.githun.io
+# magminer.github.io
